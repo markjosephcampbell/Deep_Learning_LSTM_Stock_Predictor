@@ -14,6 +14,10 @@ Completed:
 
 - - -
 
+## Project planning and setup
+- What environment do we want to work in? 
+    Jupyter, Google Colab, or AWS SageMaker
+    
 ## Instructions
 
 ### Prepared the data for training and testing
