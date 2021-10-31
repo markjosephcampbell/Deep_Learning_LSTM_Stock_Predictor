@@ -60,12 +60,4 @@ Use the above to answer the following:
 
 - - -
 
-### Hints and Considerations
-
-Experiment with the model architecture and parameters to see which provides the best results, but be sure to use the same architecture and parameters when comparing each model.
-
-For training, use at least 10 estimators for both models.
-
-- - -
-
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
