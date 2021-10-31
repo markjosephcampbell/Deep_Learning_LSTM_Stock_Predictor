@@ -42,9 +42,9 @@ Finally, used the testing data to evaluate each model and compare the performanc
 
 Use the above to answer the following:
 
-> Which model had a lower loss?
+> Which model had a lower loss? The model based on closing data
 >
-> Which model tracked the actual values better over time?
+> Which model tracked the actual values better over time? The model based on closing data
 >
 > Which window size worked best for the model?
 
