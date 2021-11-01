@@ -40,13 +40,13 @@ Used the same parameters and training steps for each model so I could compare ea
 
 Finally, used the testing data to evaluate each model and compare the performance.
 
-Use the above to answer the following:
+Used the above to answer the following:
 
-> Which model had a lower loss? The model based on closing data
+> Which model had a lower loss? The model based on closing data had the lower loss.
 >
-> Which model tracked the actual values better over time? The model based on closing data
+> Which model tracked the actual values better over time? The model based on closing data tracked the values better over time. 
 >
-> Which window size worked best for the model?
+> Which window size worked best for the model? In ten test results, window size 1 was best for the closing model while window size 9 was best for the FNG model.
 
 - - -
 
